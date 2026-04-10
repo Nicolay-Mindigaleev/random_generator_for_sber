@@ -1,0 +1,9 @@
+{
+    "prizes": [
+        {"name": "40%", "probability": 40},
+        {"name": "30%", "probability": 30},
+        {"name": "20%", "probability": 20},
+        {"name": "9%", "probability": 9},
+        {"name": "Суперприз", "probability": 1}
+    ]
+}
